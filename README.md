@@ -20,7 +20,7 @@ You can view and interact with the app by opening `index.html` in your web brows
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/insight-type.git
+git clone https://github.com/F4P1E/Insight-Type.git
 ```
 
 ### 2. Open the Project
